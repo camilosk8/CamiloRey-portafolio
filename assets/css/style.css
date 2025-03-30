@@ -120,6 +120,10 @@ a:hover{
 .social-icons a:hover{
     color: var(--primary-color);
 }
+@font-face{
+    font-family: Agustina-Signature;
+    src: url("font/Agustina-Signature.otf");
+}
 
 .logo-name{
     font-family: 'Agustina', 'Rubik', sans-serif;
