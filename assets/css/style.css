@@ -1,7 +1,4 @@
-@font-face {
-    font-family: 'Agustina';
-    src: url('/assets/fonts/Agustina.woff') format('woff');
-}
+
 
 @font-face {
     font-family: 'Dancing Script';
@@ -121,14 +118,13 @@ a:hover{
     color: var(--primary-color);
 }
 
-@font-face{
-    font-family: Agustina;
-    src: url("font/Agustina-Signature.otf");
-}
+
 
 .logo-name{
-    font-family: 'Agustina', 'Rubik', sans-serif;
-    font-size: 2rem;
+    font-family: "Waterfall", cursive, cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3rem;
 }
 
 .primary-bg-btn{
@@ -226,8 +222,8 @@ a:hover{
 }
  
 .section-heading{
-    font-family: 'Dancing Script',var(--font-family);
-    margin: 18px 0px;
+    font-family: Meow Script;
+    margin: 20px 0px;
 }
 
 .cursor-not-allowed{
